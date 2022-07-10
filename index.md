@@ -43,4 +43,4 @@
 
 _This is a place holder page for personal use_
 _Any feedback or suggestions or food we like, contact:_
-_![Contact Food Page Support](mailto:Food.Support@dprindustries.co.uk)_
+_[Contact Food Page Support](mailto:Food.Support@dprindustries.co.uk)_
