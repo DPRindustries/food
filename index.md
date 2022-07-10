@@ -41,6 +41,10 @@
 - Strawberry’s
 - Sweet potatoes
 
-_This is a place holder page for personal use_
+_This is a place holder page for personal use._
+
 _Any feedback or suggestions or food we like, contact:_
+
 _[Contact Food Page Support](mailto:Food.Support@dprindustries.co.uk)_
+
+_[Food we like](https://github.com/DPRindustries/food/) is maintained by [DPRindustries](https://github.com/DPRindustries)_
