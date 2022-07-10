@@ -1,9 +1,9 @@
 # Food we like
-#
+
 ### Breakfast
 
--French Toast
--Pancakes
+- French Toast
+- Pancakes
 
 ### Meals
 
