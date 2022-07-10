@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# Food we like
+#
+### Breakfast
 
-You can use the [editor on GitHub](https://github.com/DPRindustries/Food/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+-French Toast
+-Pancakes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Meals
 
-### Markdown
+- Beef stir fry
+- Bolognese
+- Buttery Potatoes
+- Chicken enchiladas
+- Chicken goujons
+- Curry with both jars
+- Deconstructed tortillas
+- Honey Chicken
+- Lemon Butter Chicken
+- Potatoes pizza
+- Pizza!
+- Sweet and sour
+- Yorkshire Puddings
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Deserts
 
-```markdown
-Syntax highlighted code block
+- Chocolate lava cake
+- Eclairs
+- Fruit and nut chocolate
+- Squirty cream
+- Mint ice cream
 
-# Header 1
-## Header 2
-### Header 3
+### Ingredients
 
-- Bulleted
-- List
+- Blue Berries
+- Cucumber
+- Grapes
+- Lettuce
+- Peppers
+- Raspberry’s
+- Spring onion
+- Strawberry’s
+- Sweet potatoes
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DPRindustries/Food/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+_This is a place holder page for personal use_
+_Any feedback or suggestions or food we like, contact:_
+_![Contact Support](mailto:Support@dprindustries.co.uk)_
